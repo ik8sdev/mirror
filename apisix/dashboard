@@ -1,1 +1,1 @@
-FROM apisix-dashboard:2.13-alpine
+FROM apache/apisix-dashboard:2.13-alpine
