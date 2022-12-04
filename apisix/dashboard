@@ -1,0 +1,1 @@
+FROM apisix-dashboard:2.13-alpine
